@@ -43,6 +43,12 @@ int main()
         cout<<a1/a2;
         break;
 
+        case 5:
+        cout<<"Enter numbers: ";
+        cin>>a1>>a2;
+        cout<<a1*a2/100;
+        break;
+
         default:
         cout<<"Bitch you dumb or what?\nWhat the fuck are you typing?\nPlease check your input.";
     }
