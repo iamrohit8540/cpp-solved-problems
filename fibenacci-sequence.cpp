@@ -3,7 +3,10 @@ using namespace std;
 
 int main()
 {
-    int sum1=0,sum2=1,sum3=0,n=10;
+    int sum1=0,sum2=1,sum3=0,n;
+
+    cout<<"Enter the number: ";
+    cin>>n;
 
     cout<<"0,1,";
     for (int i = 1; i < n-1; i++)
