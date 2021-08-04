@@ -22,7 +22,7 @@ int main()
     number a;
     {
         cout<<"Entering block."<<endl;
-        number b; //this object will be desroyed after exiting this block;smartness level c++
+        number b; //this object will be desroyed automatically after exiting this block;smartness level c++
         cout<<"Exiting block."<<endl;
     }
     cout<<"Back to main."<<endl;
