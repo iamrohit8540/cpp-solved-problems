@@ -6,6 +6,7 @@ int main()
     int choice;
     float a1,a2;
 
+    cout<<endl;
     cout<<"Welcome to Calculator by Underhood"<<endl;
     cout<<"=================================="<<endl;
     cout<<"Options"<<endl;

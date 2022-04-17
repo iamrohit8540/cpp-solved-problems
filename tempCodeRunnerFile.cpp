@@ -1,3 +1,2 @@
 
-    // cin>>str; // works in both functions
-    // cout<<str<<endl;
+    cout<<"\nEnter your choice: ";

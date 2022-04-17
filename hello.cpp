@@ -3,7 +3,11 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello";
+    int a;
+    cout<<"Hello"<<endl;
+    cout<<"Enter: "<<endl;
+    cin>>a;
+    cout<<a;
 
 
     return 0;
