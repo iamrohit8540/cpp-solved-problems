@@ -14,7 +14,7 @@ public:
 };
 void bin :: read()
 {
-    cout << "Enter a binary nuber: ";
+    cout << "Enter a binary number: ";
     cin >> s;
     chk_bin();
 }
